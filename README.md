@@ -42,4 +42,3 @@ Please open a github issue on this document if you think the list of groups shou
 - Zebedee
 - Zerosync
 - Zeus Wallet
-- 
