@@ -45,11 +45,13 @@ Please open a github issue on this document if you think the list of groups shou
 - RGB
 - Robosats
 - San Francisco Bitdevs
+- Sao Paulo Bitdevs
 - Shockwallet
 - Shopstr
 - Stacker News
 - Start9
 - Tabconf
+- Vinteum
 - Wasabi Wallet
 - Zaprite
 - Zebedee
