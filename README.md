@@ -1,4 +1,4 @@
-# BTC whitelisted groups
+# Good BTC groups
 A list of bitcoin groups whom I consider "good actors"
 
 # Criteria
