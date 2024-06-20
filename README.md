@@ -23,6 +23,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Austin Bitdevs
 - Bitcoin++
 - Cashu
+- Electrum Wallet
 - Fedimint
 - Joinmarket
 - Lightning Labs
