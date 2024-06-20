@@ -27,6 +27,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Joinmarket
 - Lightning Labs
 - Liquid
+- Mutiny Wallet
 - Miami Bitdevs
 - New York Bitdevs
 - RGB
