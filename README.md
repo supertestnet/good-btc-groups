@@ -14,7 +14,7 @@ I consider a bitcoin group good if it meets these conditions:
 
 Footnote 1: a group can be on this list even if they recommend, sell, hold, or otherwise use the following altcoins: "normal" fiat currency (not tokenized via any cryptocurrency techniques) and "wrapped bitcoins" on other platforms
 
-Footnote 2: a group can be on this list even if they test altcoins and their apps as part of research or experimentation, and even if they acquire altcoins for the duration of an atomic swap. For example, a bitcoin wallet could do a swap to let its bitcoin holders pay a website that only accepts monero, even if, during that atomic swap, some monero is acquired in order to pay transaction fees
+Footnote 2: a group can be on this list even if they test altcoins and their apps as part of research or experimentation, and even if they acquire altcoins temporarily to assist with sending bitcoin. For example, a bitcoin wallet could do a swap to let its bitcoin holders pay a website that only accepts monero, even if, during that atomic swap, some monero is acquired in order to pay transaction fees
 
 Footnote 3: a group can be on this list even if they accept speaking engagements, gifts, and money from scammers and altcoin groups, and even if they participate in events organized by scammers and altcoin groups, but not if their participation suggests that the group endorses a scam or recommends an altcoin
 
