@@ -29,6 +29,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Miami Bitdevs
 - New York Bitdevs
 - RGB
+- Robosats
 - San Francisco Bitdevs
 - Stacker News
 - Start9
