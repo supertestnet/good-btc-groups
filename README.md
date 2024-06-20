@@ -11,7 +11,7 @@ I consider a bitcoin group good if it meets these conditions:
   - The group gives away free goods or services for bitcoin
   - The group pays at least one person to develop bitcoin software
 
-Footnote 1: a group can be on this list even if they recommend, sell, or use the use of the following altcoins: "normal" fiat currency (not tokenized via any cryptocurrency techniques) and "wrapped bitcoins" on other platforms
+Footnote 1: a group can be on this list even if they recommend, sell, or use the following altcoins: "normal" fiat currency (not tokenized via any cryptocurrency techniques) and "wrapped bitcoins" on other platforms
 
 Footnote 2: a group can be on this list even if they test altcoins and their apps as part of research or experimentation
 
