@@ -24,6 +24,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Bitcoin++
 - Cashu
 - Fedimint
+- Joinmarket
 - Lightning Labs
 - Liquid
 - Miami Bitdevs
