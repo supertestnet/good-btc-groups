@@ -35,5 +35,6 @@ Please open a github issue on this document if you think the list of groups shou
 - Stacker News
 - Start9
 - Tabconf
+- Wasabi Wallet
 - Zebedee
 - Zerosync
