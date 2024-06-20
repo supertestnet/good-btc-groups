@@ -21,9 +21,11 @@ Please open a github issue on this document if you think the list of groups shou
 - Advancing Bitcoin
 - Atomic Finance
 - Austin Bitdevs
+- Base58
 - Bitcoin++
 - Blixt Wallet
 - Cashu
+- Chaincode
 - Electrum Wallet
 - Fedimint
 - Joinmarket
@@ -32,6 +34,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Mutiny Wallet
 - Miami Bitdevs
 - New York Bitdevs
+- Plebdevs
 - RGB
 - Robosats
 - San Francisco Bitdevs
