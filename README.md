@@ -16,7 +16,7 @@ Footnote 1: a group can be on this list even if they recommend, sell, hold, or o
 
 Footnote 2: a group can be on this list even if they test altcoins and their apps as part of research or experimentation
 
-Footnote 3: a group can be on this list even if they accept speaking engagements, gifts, and money from altcoin groups, and even if they participate in altcoin events, but not if their participation suggests that the group recommends an altcoin
+Footnote 3: a group can be on this list even if they accept speaking engagements, gifts, and money from scammers and altcoin groups, and even if they participate in events organized by scammers and altcoin groups, but not if their participation suggests that the group endorses a scam or recommends an altcoin
 
 # Modifying the list or criteria
 
