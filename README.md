@@ -39,10 +39,12 @@ Please open a github issue on this document if you think the list of groups shou
 - Robosats
 - San Francisco Bitdevs
 - Shockwallet
+- Shopstr
 - Stacker News
 - Start9
 - Tabconf
 - Wasabi Wallet
+- Zaprite
 - Zebedee
 - Zerosync
 - Zeus Wallet
