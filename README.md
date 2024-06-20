@@ -27,7 +27,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Cashu
 - Chaincode
 - Electrum Wallet
-- Fedimint
+- Fedi
 - Joinmarket
 - Lightning Labs
 - Liquid
@@ -38,6 +38,7 @@ Please open a github issue on this document if you think the list of groups shou
 - RGB
 - Robosats
 - San Francisco Bitdevs
+- Shockwallet
 - Stacker News
 - Start9
 - Tabconf
