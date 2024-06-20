@@ -1,5 +1,5 @@
-# BTC corporate whitelist
-A list of bitcoin groups that I would welcome sponsorships from because I consider them "good actors" in bitcoin
+# BTC whitelisted groups
+A list of bitcoin groups whom I consider "good actors"
 
 # Criteria
 I consider a bitcoin group good if it meets these conditions:
