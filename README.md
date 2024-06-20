@@ -22,6 +22,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Atomic Finance
 - Austin Bitdevs
 - Bitcoin++
+- Blixt Wallet
 - Cashu
 - Electrum Wallet
 - Fedimint
@@ -40,3 +41,5 @@ Please open a github issue on this document if you think the list of groups shou
 - Wasabi Wallet
 - Zebedee
 - Zerosync
+- Zeus Wallet
+- 
