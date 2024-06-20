@@ -4,7 +4,7 @@ A list of bitcoin groups whom I consider "good actors"
 # Criteria
 I consider a bitcoin group good if it meets these conditions:
 - The group does not sell any altcoins (but see footnote 1)
-- The group has publicly recommended against selling or using altcoins (but see footnote 1), except for experimental purposes (see footnote 2)
+- The group has publicly recommended against selling or using altcoins (but see footnotes 1 and 2)
 - The group does not sell user data
 - Pick at least one:
   - The group sells goods or services for bitcoin
