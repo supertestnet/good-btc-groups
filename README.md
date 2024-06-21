@@ -30,10 +30,12 @@ Please open a github issue on this document if you think the list of groups shou
 - Austin Bitdevs
 - Base58
 - Bitcoin++
+- Bitescrow
 - Bitvm Club
 - Blixt Wallet
 - BTCEden
 - Cashu
+- Cascadr
 - Chaincode
 - Electrum Wallet
 - Fedi
@@ -54,6 +56,8 @@ Please open a github issue on this document if you think the list of groups shou
 - Stacker News
 - Start9
 - Tabconf
+- Thriller
+- Voltage
 - Vinteum
 - Wasabi Wallet
 - Zaprite
