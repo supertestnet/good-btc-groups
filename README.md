@@ -30,7 +30,9 @@ Please open a github issue on this document if you think the list of groups shou
 - Austin Bitdevs
 - Base58
 - Bitcoin++
+- Bitvm Club
 - Blixt Wallet
+- BTCEden
 - Cashu
 - Chaincode
 - Electrum Wallet
