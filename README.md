@@ -6,6 +6,7 @@ I consider a bitcoin group good if it meets these conditions:
 - The group does not sell any altcoins (but see footnote 1)
 - The group has publicly recommended against holding or using altcoins and does not hold or use altcoins themselves (but see footnotes 1 and 2)
 - The group does not sell user data
+- The group does not raise money by fooling investors
 - The group does not give promotional opportunities to scammers or altcoin groups, not even in return for sponsorships, money, or "free" gifts (but see footnote 3)
 - Pick at least one:
   - The group sells goods or services for bitcoin
@@ -34,6 +35,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Bitvm Club
 - Blixt Wallet
 - BTCEden
+- Btcpay
 - Cashu
 - Cascadr
 - Chaincode
