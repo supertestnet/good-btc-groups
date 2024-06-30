@@ -51,6 +51,7 @@ Please open a github issue on this document if you think the list of groups shou
 - Pleblab
 - RGB
 - Robosats
+- San Antonio Bitcoin Club
 - San Francisco Bitdevs
 - Sao Paulo Bitdevs
 - Shockwallet
